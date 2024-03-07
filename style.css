@@ -41,6 +41,7 @@ body {
     height: 230px;
     display: flex;
     justify-content: center;
+    transform: rotateZ(0);
 }
 
 .clock .sec::before{
